@@ -6,16 +6,38 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="02_01.VariousVariables" />
-        <module name="02_07.MultiplicationFormula" />
-        <module name="02_06.SumOfThreeNumbers" />
-        <module name="02_04.DifferentTypesOfInput" />
-        <module name="02_02.IntegerInput" />
-        <module name="02_03.DoubleInput" />
-        <module name="02_09.SimpleCalculator" />
-        <module name="02_05.SecondsInADay" />
-        <module name="02_08.AverageOfThreeNumbers" />
+        <module name="04_04.NumberOfNumbers" />
+        <module name="04_02.AreWeThereYet" />
+        <module name="03_01.SpeedingTicket" />
+        <module name="03_03.LargerThanOrEqualTo" />
+        <module name="03_02.Positivity" />
+        <module name="04_03.OnlyPositives" />
+        <module name="04_16.RepeatingBreakingAndRemembering" />
+        <module name="04_05.NumberOfNegativeNumbers" />
+        <module name="04_01.CarryOn" />
+        <module name="03_04.gradesAndPoints" />
+        <module name="04_08.AverageOfNumbers" />
+        <module name="04_09.AverageOfPositiveNumbers" />
+        <module name="04_06.SumOfNumbers" />
+        <module name="04_07.NumberAndSumOfNumbers" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="02_01.VariousVariables" target="1.8" />
+      <module name="02_02.IntegerInput" target="1.8" />
+      <module name="02_03.DoubleInput" target="1.8" />
+      <module name="02_04.DifferentTypesOfInput" target="1.8" />
+      <module name="02_05.SecondsInADay" target="1.8" />
+      <module name="02_06.SumOfThreeNumbers" target="1.8" />
+      <module name="02_07.MultiplicationFormula" target="1.8" />
+      <module name="02_08.AverageOfThreeNumbers" target="1.8" />
+      <module name="02_09.SimpleCalculator" target="1.8" />
+      <module name="03_05.OddOrEven" target="1.8" />
+      <module name="03_06.Password" target="1.8" />
+      <module name="03_07.Same" target="1.8" />
+      <module name="03_08.CheckingTheAge" target="1.8" />
+      <module name="03_09.LeapYear" target="1.8" />
+      <module name="03_10.GiftTax" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

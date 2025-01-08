@@ -17,6 +17,30 @@
         <option value="$PROJECT_DIR$/2.1/02_07.MultiplicationFormula/pom.xml" />
         <option value="$PROJECT_DIR$/2.1/02_08.AverageOfThreeNumbers/pom.xml" />
         <option value="$PROJECT_DIR$/2.1/02_09.SimpleCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/3/03_01.SpeedingTicket/pom.xml" />
+        <option value="$PROJECT_DIR$/3/03_02.Positivity/pom.xml" />
+        <option value="$PROJECT_DIR$/3/03_03.LargerThanOrEqualTo/pom.xml" />
+        <option value="$PROJECT_DIR$/3/03_04.GradesAndPoints/pom.xml" />
+        <option value="$PROJECT_DIR$/03_01.SpeedingTicket/pom.xml" />
+        <option value="$PROJECT_DIR$/03_02.Positivity/pom.xml" />
+        <option value="$PROJECT_DIR$/03_03.LargerThanOrEqualTo/pom.xml" />
+        <option value="$PROJECT_DIR$/03_04.GradesAndPoints/pom.xml" />
+        <option value="$PROJECT_DIR$/03_05.OddOrEven/pom.xml" />
+        <option value="$PROJECT_DIR$/03_06.Password/pom.xml" />
+        <option value="$PROJECT_DIR$/03_07.Same/pom.xml" />
+        <option value="$PROJECT_DIR$/03_08.CheckingTheAge/pom.xml" />
+        <option value="$PROJECT_DIR$/03_09.LeapYear/pom.xml" />
+        <option value="$PROJECT_DIR$/03_10.GiftTax/pom.xml" />
+        <option value="$PROJECT_DIR$/4/04_01.CarryOn/pom.xml" />
+        <option value="$PROJECT_DIR$/4/04_02.AreWeThereYet/pom.xml" />
+        <option value="$PROJECT_DIR$/4/04_03.OnlyPositives/pom.xml" />
+        <option value="$PROJECT_DIR$/4/04_04.NumberOfNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/4/04_05.NumberOfNegativeNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/4/04_06.SumOfNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/4/04_07.NumberAndSumOfNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/4/04_08.AverageOfNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/4/04_09.AverageOfPositiveNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/4/04_10.RepeatingBreakingAndRemembering/pom.xml" />
       </list>
     </option>
   </component>
