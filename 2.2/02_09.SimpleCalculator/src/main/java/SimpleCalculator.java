@@ -16,9 +16,9 @@ public class SimpleCalculator {
         int multiply = numberFirst * numberSecond;
         double divide = (double) numberFirst / numberSecond;
 
-        System.out.println(numberFirst + " + " + numberSecond + "=" + sum);
-        System.out.println(numberFirst + " - " + numberSecond + "=" + subtract);
-        System.out.println(numberFirst + " * " + numberSecond + "=" + multiply);
-        System.out.println(numberFirst + " / " + numberSecond + "=" + divide);
+        System.out.println(numberFirst + " + " + numberSecond + " = " + sum);
+        System.out.println(numberFirst + " - " + numberSecond + " = " + subtract);
+        System.out.println(numberFirst + " * " + numberSecond + " = " + multiply);
+        System.out.println(numberFirst + " / " + numberSecond + " = " + divide);
     }
 }
