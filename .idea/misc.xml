@@ -47,6 +47,24 @@
         <option value="$PROJECT_DIR$/4/04_14.SumOfASequence/pom.xml" />
         <option value="$PROJECT_DIR$/4/04_15.SumOfASequenceTheSequel/pom.xml" />
         <option value="$PROJECT_DIR$/4/04_16.Factorial/pom.xml" />
+        <option value="$PROJECT_DIR$/3/03_05.OddOrEven/pom.xml" />
+        <option value="$PROJECT_DIR$/3/03_06.Password/pom.xml" />
+        <option value="$PROJECT_DIR$/3/03_07.Same/pom.xml" />
+        <option value="$PROJECT_DIR$/3/03_08.CheckingTheAge/pom.xml" />
+        <option value="$PROJECT_DIR$/3/03_09.LeapYear/pom.xml" />
+        <option value="$PROJECT_DIR$/3/03_10.GiftTax/pom.xml" />
+        <option value="$PROJECT_DIR$/5/05_01.InAHoleInTheGround/pom.xml" />
+        <option value="$PROJECT_DIR$/5/05_02.Reprint/pom.xml" />
+        <option value="$PROJECT_DIR$/5/05_03.FromOneToParameter/pom.xml" />
+        <option value="$PROJECT_DIR$/5/05_04.FromParameterToOne/pom.xml" />
+        <option value="$PROJECT_DIR$/5/05_05.Division/pom.xml" />
+        <option value="$PROJECT_DIR$/5/05_06.DivisibleByThree/pom.xml" />
+        <option value="$PROJECT_DIR$/5/05_07.Summation/pom.xml" />
+        <option value="$PROJECT_DIR$/5/05_08.Smallest/pom.xml" />
+        <option value="$PROJECT_DIR$/5/05_09.Greatest/pom.xml" />
+        <option value="$PROJECT_DIR$/5/05_10.Averaging/pom.xml" />
+        <option value="$PROJECT_DIR$/5/05_11.StarSign/pom.xml" />
+        <option value="$PROJECT_DIR$/5/05_12.AdvancedAstrology/pom.xml" />
       </list>
     </option>
   </component>

@@ -9,6 +9,7 @@ public class AreWeThereYet {
         while (true) {
             System.out.println("Give a number");
             int answer = Integer.parseInt(scanner.nextLine());
+
             if (answer == 4) {
                 break;}
         }

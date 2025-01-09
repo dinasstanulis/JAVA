@@ -22,7 +22,7 @@ public class GradesAndPoints {
             System.out.println("3");
         } else if (points >= 0) {
             System.out.println("failed");
-        } else if (points < 0) {
+        } else {
             System.out.println("impossible!");
         }
 

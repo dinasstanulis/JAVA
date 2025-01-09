@@ -18,7 +18,7 @@ public class LargerThanOrEqualTo {
         else if (firstNumber < secondNumber) {
             System.out.println("Greater number is: " + secondNumber);
         }
-        else if (secondNumber == firstNumber) {
+        else {
             System.out.println("The numbers are equal");
         }
     }

@@ -14,7 +14,7 @@ public class OnlyPositives {
             else if (answer > 0) {
                 System.out.println(Math.pow(answer, 2));
             }
-            else if (answer == 0) {
+            else {
                 break;}
         }
     }
