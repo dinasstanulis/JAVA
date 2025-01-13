@@ -7,11 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="04_16.Factorial" />
+        <module name="06_04.PrintNeatly" />
         <module name="03_08.CheckingTheAge" />
         <module name="03_09.LeapYear" />
         <module name="05_05.Division" />
+        <module name="06_05.PrintInStars" />
         <module name="04_11.Counting" />
         <module name="02_3_praktinis" />
+        <module name="06_02.IndexWasNotFound" />
+        <module name="06_2_masyvai" />
         <module name="03_06.Password" />
         <module name="05_02.Reprint" />
         <module name="04_05.NumberOfNegativeNumbers" />
@@ -37,9 +41,11 @@
         <module name="04_13.FromWhereToWhere" />
         <module name="04_01.CarryOn" />
         <module name="05_03.FromOneToParameter" />
+        <module name="06_01.Swap" />
         <module name="05_12.Averaging" />
         <module name="03_07.Same" />
         <module name="04_07.NumberAndSumOfNumbers" />
+        <module name="06_03.SumOfArray" />
         <module name="05_13.StarSign" />
       </profile>
       <profile name="Annotation profile for 03_02.Positivity" enabled="true">
