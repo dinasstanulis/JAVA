@@ -73,6 +73,18 @@
         <option value="$PROJECT_DIR$/6/06_05.PrintInStars/pom.xml" />
         <option value="$PROJECT_DIR$/6/06_2_masyvai/pom.xml" />
         <option value="$PROJECT_DIR$/6/06_3_arrays/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayList_praktiniai/AL_01.ThirdElement/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayList_praktiniai/AL_02.SecondPlusThird/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayList_praktiniai/AL_03.IndexOutOfBoundsException/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayList_praktiniai/AL_04.ListSize/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayList_praktiniai/AL_05.LastInList/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayList_praktiniai/AL_06.FirstAndLast/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayList_praktiniai/AL_07.RememberTheseNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayList_praktiniai/AL_08.OnlyTheseNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayList_praktiniai/AL_09.GreatestInList/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayList_praktiniai/AL_10.IndexOf/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayList_praktiniai/AL_11.IndexOfSmallest/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayList_praktiniai/AL_12.SumOfAList/pom.xml" />
       </list>
     </option>
   </component>
