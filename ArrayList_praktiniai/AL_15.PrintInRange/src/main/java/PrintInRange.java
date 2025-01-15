@@ -4,7 +4,7 @@ import java.util.ArrayList;
 public class PrintInRange {
 
     public static void main(String[] args) {
-        // Try your method here
+        // for all numbers and print only the ones that "if (true)"
     }
     
 }

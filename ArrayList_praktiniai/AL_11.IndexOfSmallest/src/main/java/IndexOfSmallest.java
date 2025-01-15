@@ -24,14 +24,9 @@ public class IndexOfSmallest {
             }
         }
         System.out.println("Smallest number: " + min);
-        System.out.println("Found and index: " + list.indexOf(min));
+        System.out.println("Found at index: " + list.indexOf(min));
 
-        // implement here a program that reads user input
-        // until the user enters 9999
-        
-        // after that, the program prints the smallest number
-        // and its index -- the smallest number
-        // might appear multiple times
+        // need 2 for to get every smallest number
 
         
     }
