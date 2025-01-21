@@ -37,12 +37,14 @@
         <module name="05_14.AdvancedAstrology" />
         <module name="04_13.FromWhereToWhere" />
         <module name="08_05.DecreasingCounter" />
+        <module name="08_2_03.TelevisionPrograms" />
         <module name="05_03.FromOneToParameter" />
         <module name="AL_04.ListSize" />
         <module name="06_03.SumOfArray" />
         <module name="04_16.Factorial" />
         <module name="06_04.PrintNeatly" />
         <module name="08_10.Multiplier" />
+        <module name="users-pt" />
         <module name="03_09.LeapYear" />
         <module name="08_02.Whistle" />
         <module name="05_05.Division" />
@@ -59,6 +61,7 @@
         <module name="05_04.FromParameterToOne" />
         <module name="05_10.Smallest" />
         <module name="04_09.AverageOfPositiveNumbers" />
+        <module name="08_2_02.PersonalInformation" />
         <module name="04_02.AreWeThereYet" />
         <module name="04_12.CountingToHundred" />
         <module name="04_03.OnlyPositives" />
@@ -110,6 +113,7 @@
       <module name="02_07.MultiplicationFormula" target="1.8" />
       <module name="02_08.AverageOfThreeNumbers" target="1.8" />
       <module name="02_09.SimpleCalculator" target="1.8" />
+      <module name="10_01.DifferentKindsOfBoxes" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/11/users-pt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11/users-pt/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/2/2.1/02_01.VariousVariables/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/2/2.1/02_01.VariousVariables/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/2/2.1/02_02.IntegerInput/src/main/java" charset="UTF-8" />
@@ -107,6 +109,10 @@
     <file url="file://$PROJECT_DIR$/6/06_05.PrintInStars/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/8.2/08_2_01.Items/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/8.2/08_2_01.Items/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8.2/08_2_02.PersonalInformation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8.2/08_2_02.PersonalInformation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8.2/08_2_03.TelevisionPrograms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8.2/08_2_03.TelevisionPrograms/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/8/08_01.Room/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/8/08_01.Room/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/8/08_02.Whistle/src/main/java" charset="UTF-8" />
