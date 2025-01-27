@@ -23,29 +23,29 @@ public class Main {
 
         System.out.println(yoga);
 
-//        Gym gym = new Gym();
-//        gym.addMember(1, "Alice", 30);
-//        gym.addMember(2, "Bob", 25);
-//        gym.addMember(3, "Jeff", 58);
-//
-//        gym.printMembers();
-//        System.out.println("---");
-//
-//        gym.assignMembership(new MonthlyMembership(1, 1, 2));
-//        gym.assignMembership(new AnnualMembership(2, 2));
-//        gym.assignMembership(new MonthlyMembership(3, 3, 6));
-//
-//        gym.printMemberships();
-//        System.out.println("---");
-//
-//        gym.addGymClass("Yoga", "Monday 6 PM");
-//        gym.addGymClass("Zumba", "Wednesday 7 PM");
-//
-//        gym.enrollMemberInClass(1, "Yoga");
-//        gym.enrollMemberInClass(2, "Zumba");
-//        gym.enrollMemberInClass(3, "Yoga");
-//
-//        gym.printClassEnrollments();
+        Gym gym = new Gym();
+        gym.addMember(1, "Alice", 30);
+        gym.addMember(2, "Bob", 25);
+        gym.addMember(3, "Jeff", 58);
+
+        gym.printMembers();
+        System.out.println("---");
+
+        gym.assignMembership(new MonthlyMembership(1, 1, 2));
+        gym.assignMembership(new AnnualMembership(2, 2));
+        gym.assignMembership(new MonthlyMembership(3, 3, 6));
+
+        gym.printMemberships();
+        System.out.println("---");
+
+        gym.addGymClass("Yoga", "Monday 6 PM");
+        gym.addGymClass("Zumba", "Wednesday 7 PM");
+
+        gym.enrollMemberInClass(1, "Yoga");
+        gym.enrollMemberInClass(2, "Zumba");
+        gym.enrollMemberInClass(3, "Yoga");
+
+        gym.printClassEnrollments();
 
     }
 

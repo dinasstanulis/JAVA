@@ -11,4 +11,8 @@ public class MonthlyMembership extends Membership {
         return duration * 30.0;
     }
 
+    @Override
+    public String toString() {
+        return "MonthlyMembership, Cost: " + getCost() + ", Duration: " + duration + " months";
+    }
 }
